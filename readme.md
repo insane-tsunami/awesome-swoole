@@ -92,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SMProxy](https://github.com/louislivi/SMProxy) - A MySQL database connection pool based on MySQL protocol and Swoole. 
 
 ## Integration
-- [laravel-swoole](https://github.com/swooletw/laravel-swoole) - ❤️ A high performance HTTP sever based on Swoole. Speed up your Laravel or Lumen applications. This repo is maintained by Swoole Taiwan Community.
+- [laravel-swoole](https://github.com/swooletw/laravel-swoole) - ❤️ A high performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications. This repo is maintained by Swoole Taiwan Community.
 - [Lawoole](https://github.com/lawoole/lawoole) - A combination framework with Swoole and Laravel.
 - [laravel-swoole-jsonrpc](https://github.com/huang-yi/laravel-swoole-jsonrpc) - The JSON-RPC server and client based on Swoole, for Laravel and Lumen framework.
 - [lumen-swoole-http](https://github.com/breeze2/lumen-swoole-http) - A bridge from Swoole to Lumen.
